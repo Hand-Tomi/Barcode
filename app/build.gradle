@@ -32,12 +32,4 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    // ribs
-    annotationProcessor 'com.uber.rib:rib-compiler-test:0.9.1'
-    implementation 'com.uber.rib:rib-android:0.9.1'
-    testImplementation 'com.uber.rib:rib-test-utils:0.9.1'
-
-    // dagger
-    api 'com.google.dagger:dagger:2.22.1'
-    kapt 'com.google.dagger:dagger-compiler:2.22.1'
 }
