@@ -5,7 +5,8 @@ My Pet Project - #1 Barcode
 # 사용할 기술(スキル)
  - [ML Kit's barcode scanning API](https://developers.google.com/ml-kit/vision/barcode-scanning)
  - Language : [Kotlin](https://kotlinlang.org/)
- - Architecture : [RIBs](https://github.com/uber/RIBs)
+ - Architecture : 
+     - ~~Ribs : [RIBs](https://github.com/uber/RIBs)항 kotlin 지원이 미흡하므로 코드 작성도 문제이며 배우는것에 에로사이 있어 변경한다.~~ 
  - Library : [Jatpack](https://developer.android.com/jetpack)
  
 # 테스트
