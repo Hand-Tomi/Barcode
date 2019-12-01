@@ -6,8 +6,9 @@ My Pet Project - #1 Barcode
  - [ML Kit's barcode scanning API](https://developers.google.com/ml-kit/vision/barcode-scanning)
  - Language : [Kotlin](https://kotlinlang.org/)
  - Architecture : Redux
-     - ~~Ribs : [RIBs](https://github.com/uber/RIBs)항 kotlin 지원이 미흡하므로 코드 작성도 문제이며 배우는것에 에로사이 있어 변경한다.~~ 
+     - ~~Ribs : [RIBs](https://github.com/uber/RIBs)항 kotlin 지원이 미흡하므로 코드 작성도 문제이며 배우는것에 에로사항이 있어 변경한다.~~
  - Library : [Jatpack](https://developer.android.com/jetpack)
+ - Permissions : [EasyPermissions](https://firebaseopensource.com/projects/googlesamples/easypermissions/)
  
 # 테스트
  - UnitTest
