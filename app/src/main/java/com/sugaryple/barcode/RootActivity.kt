@@ -16,7 +16,7 @@ class RootActivity : AppCompatActivity(), EasyPermissions.PermissionCallbacks {
 
     override fun onResume() {
         super.onResume()
-        if (hasPermissions()) {
+        if (hasPermissions().not()) {
             requestPermission()
         }
     }
